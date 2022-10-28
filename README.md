@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Divine
+- 👋 Hi, I’m Divine
 - 👀 I’m interested in full-stack development
 - 🌱 I’m currently learning backend development with nodeJs
 - 💞️ I’m looking to collaborate on projects that can help me grow my skills
